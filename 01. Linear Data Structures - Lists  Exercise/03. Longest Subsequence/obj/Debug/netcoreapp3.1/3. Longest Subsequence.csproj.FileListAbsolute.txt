@@ -1,0 +1,13 @@
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.exe
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.deps.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.runtimeconfig.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.runtimeconfig.dev.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\bin\Debug\netcoreapp3.1\3. Longest Subsequence.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.csprojAssemblyReference.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.AssemblyInfoInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.AssemblyInfo.cs
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\3. Longest Subsequence\obj\Debug\netcoreapp3.1\3. Longest Subsequence.genruntimeconfig.cache

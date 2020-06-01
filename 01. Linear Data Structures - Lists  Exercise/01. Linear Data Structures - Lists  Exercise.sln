@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Sum And Average", "01. Sum And Average\01. Sum And Average.csproj", "{C7215126-43AD-4BE4-9D5C-345DF1894BCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sort Words", "02. Sort Words\02. Sort Words.csproj", "{4BA05127-7BE3-4BB0-9EE3-C94E78545992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longest Subsequence", "3. Longest Subsequence\03. Longest Subsequence.csproj", "{FCF67BAA-5220-4D44-AB64-42CD81C1AEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Remove Odd Occurrences", "04. Remove Odd Occurrences\04. Remove Odd Occurrences.csproj", "{47BC58AC-B9BB-4B85-9A41-F3F417403DB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count of Occurrences", "05. Count of Occurrences\05. Count of Occurrences.csproj", "{00335C97-D3F6-438C-9B6B-C8DD84A60E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Distance in Labyrinth", "07. Distance in Labyrinth\07. Distance in Labyrinth.csproj", "{DE9039D0-47A0-4CCB-9B75-7E605CCD4BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7215126-43AD-4BE4-9D5C-345DF1894BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7215126-43AD-4BE4-9D5C-345DF1894BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7215126-43AD-4BE4-9D5C-345DF1894BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7215126-43AD-4BE4-9D5C-345DF1894BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA05127-7BE3-4BB0-9EE3-C94E78545992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA05127-7BE3-4BB0-9EE3-C94E78545992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA05127-7BE3-4BB0-9EE3-C94E78545992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA05127-7BE3-4BB0-9EE3-C94E78545992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF67BAA-5220-4D44-AB64-42CD81C1AEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF67BAA-5220-4D44-AB64-42CD81C1AEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF67BAA-5220-4D44-AB64-42CD81C1AEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF67BAA-5220-4D44-AB64-42CD81C1AEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BC58AC-B9BB-4B85-9A41-F3F417403DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BC58AC-B9BB-4B85-9A41-F3F417403DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BC58AC-B9BB-4B85-9A41-F3F417403DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BC58AC-B9BB-4B85-9A41-F3F417403DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00335C97-D3F6-438C-9B6B-C8DD84A60E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00335C97-D3F6-438C-9B6B-C8DD84A60E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00335C97-D3F6-438C-9B6B-C8DD84A60E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00335C97-D3F6-438C-9B6B-C8DD84A60E14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9039D0-47A0-4CCB-9B75-7E605CCD4BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9039D0-47A0-4CCB-9B75-7E605CCD4BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9039D0-47A0-4CCB-9B75-7E605CCD4BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9039D0-47A0-4CCB-9B75-7E605CCD4BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CDF8D3-7344-43F2-8863-D7C3B5DFA53B}
+	EndGlobalSection
+EndGlobal

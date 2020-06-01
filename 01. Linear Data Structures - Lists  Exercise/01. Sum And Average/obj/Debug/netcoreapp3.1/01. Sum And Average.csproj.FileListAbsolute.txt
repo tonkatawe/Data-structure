@@ -1,0 +1,13 @@
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.exe
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.deps.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.runtimeconfig.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.runtimeconfig.dev.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\bin\Debug\netcoreapp3.1\01. Sum And Average.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.csprojAssemblyReference.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.AssemblyInfoInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.AssemblyInfo.cs
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\01. Sum And Average\obj\Debug\netcoreapp3.1\01. Sum And Average.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.exe
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.deps.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.runtimeconfig.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.runtimeconfig.dev.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\bin\Debug\netcoreapp3.1\04. Remove Odd Occurrences.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.csprojAssemblyReference.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.AssemblyInfo.cs
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\04. Remove Odd Occurrences\obj\Debug\netcoreapp3.1\04. Remove Odd Occurrences.genruntimeconfig.cache

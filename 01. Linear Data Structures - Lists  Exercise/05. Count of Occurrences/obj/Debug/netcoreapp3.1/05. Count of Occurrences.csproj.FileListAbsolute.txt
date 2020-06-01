@@ -1,0 +1,13 @@
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.exe
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.deps.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.runtimeconfig.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.runtimeconfig.dev.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\bin\Debug\netcoreapp3.1\05. Count of Occurrences.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.csprojAssemblyReference.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.AssemblyInfoInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.AssemblyInfo.cs
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\05. Count of Occurrences\obj\Debug\netcoreapp3.1\05. Count of Occurrences.genruntimeconfig.cache

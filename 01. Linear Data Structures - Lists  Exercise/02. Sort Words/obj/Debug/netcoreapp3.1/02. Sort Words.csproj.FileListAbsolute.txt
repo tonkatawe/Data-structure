@@ -1,0 +1,13 @@
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.exe
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.deps.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.runtimeconfig.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.runtimeconfig.dev.json
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\bin\Debug\netcoreapp3.1\02. Sort Words.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.csprojAssemblyReference.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.csproj.CoreCompileInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.AssemblyInfoInputs.cache
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.AssemblyInfo.cs
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.dll
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.pdb
+D:\SoftUni\Data structure\01. Linear Data Structures - Lists  Exercise\02. Sort Words\obj\Debug\netcoreapp3.1\02. Sort Words.genruntimeconfig.cache
