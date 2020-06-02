@@ -1,0 +1,10 @@
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

@@ -1,0 +1,6 @@
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\GitHubRepo\Data structure\01. Linear Data Structures - Lists  Exercise\08. Doubly Linked List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
