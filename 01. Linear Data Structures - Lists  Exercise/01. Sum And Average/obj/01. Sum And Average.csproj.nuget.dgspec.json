@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj": {}
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj": {
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj",
         "projectName": "01. Sum And Average",
-        "projectPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj",
+        "projectPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\01. Sum And Average.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\01. Sum And Average\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

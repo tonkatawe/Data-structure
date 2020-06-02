@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\07. Distance in Labyrinth.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\07. Distance in Labyrinth.csproj",
       "projectName": "07. Distance in Labyrinth",
-      "projectPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\07. Distance in Labyrinth.csproj",
+      "projectPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\07. Distance in Labyrinth.csproj",
       "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\obj\\",
+      "outputPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\07. Distance in Labyrinth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

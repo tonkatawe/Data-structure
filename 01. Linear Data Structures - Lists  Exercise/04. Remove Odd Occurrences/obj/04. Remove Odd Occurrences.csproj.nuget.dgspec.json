@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj": {}
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj": {
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj",
         "projectName": "04. Remove Odd Occurrences",
-        "projectPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj",
+        "projectPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\04. Remove Odd Occurrences.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\04. Remove Odd Occurrences\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",

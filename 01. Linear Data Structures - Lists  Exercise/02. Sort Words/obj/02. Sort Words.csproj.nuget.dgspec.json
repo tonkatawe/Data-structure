@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj": {}
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj": {
+    "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj",
+        "projectUniqueName": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj",
         "projectName": "02. Sort Words",
-        "projectPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj",
+        "projectPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\02. Sort Words.csproj",
         "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\obj\\",
+        "outputPath": "C:\\GitHubRepo\\Data structure\\01. Linear Data Structures - Lists  Exercise\\02. Sort Words\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",
