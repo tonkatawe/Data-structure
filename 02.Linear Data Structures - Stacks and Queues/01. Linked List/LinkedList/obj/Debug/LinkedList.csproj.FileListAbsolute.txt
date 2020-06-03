@@ -1,0 +1,7 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\bin\Debug\LinkedList.exe.config
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\bin\Debug\LinkedList.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\bin\Debug\LinkedList.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\obj\Debug\LinkedList.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,11 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\Tests.LinkedList.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\Tests.LinkedList.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\LinkedList.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\LinkedList.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\bin\Debug\LinkedList.exe.config
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.csproj.CopyComplete
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\01. Linked List\Tests.LinkedList\obj\Debug\Tests.LinkedList.pdb
