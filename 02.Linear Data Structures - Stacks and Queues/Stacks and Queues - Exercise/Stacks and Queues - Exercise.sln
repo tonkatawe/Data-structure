@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Numbers", "ConsoleApp1\01. Reverse Numbers.csproj", "{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Calculate Sequence", "02. Calculate Sequence\02. Calculate Sequence.csproj", "{6ED66C81-C426-4FDD-B64D-6329A8856667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0C5957-B8AB-4B94-BD08-300C8B4AD434}
+	EndGlobalSection
+EndGlobal

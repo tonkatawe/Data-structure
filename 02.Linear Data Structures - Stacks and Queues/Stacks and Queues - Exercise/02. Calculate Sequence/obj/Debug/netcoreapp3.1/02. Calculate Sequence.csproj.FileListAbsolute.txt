@@ -1,0 +1,13 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.deps.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.runtimeconfig.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.runtimeconfig.dev.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\bin\Debug\netcoreapp3.1\02. Calculate Sequence.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.AssemblyInfoInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.AssemblyInfo.cs
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\02. Calculate Sequence\obj\Debug\netcoreapp3.1\02. Calculate Sequence.genruntimeconfig.cache

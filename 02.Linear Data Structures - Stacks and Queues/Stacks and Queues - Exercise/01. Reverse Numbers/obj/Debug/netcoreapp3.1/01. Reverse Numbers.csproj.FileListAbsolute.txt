@@ -1,0 +1,12 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.deps.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.runtimeconfig.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.runtimeconfig.dev.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01. Reverse Numbers.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.AssemblyInfoInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.AssemblyInfo.cs
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01. Reverse Numbers.genruntimeconfig.cache
