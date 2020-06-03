@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Numbers", "ConsoleApp1\01. Reverse Numbers.csproj", "{81AE23E9-1F86-4B26-B6AA-1D9CAB59649C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Calculate Sequence", "02. Calculate Sequence\02. Calculate Sequence.csproj", "{6ED66C81-C426-4FDD-B64D-6329A8856667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Calculate Sequence", "02. Calculate Sequence\02. Calculate Sequence.csproj", "{6ED66C81-C426-4FDD-B64D-6329A8856667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Sequence N-M", "06. Sequence N-M\06. Sequence N-M.csproj", "{A7D114D5-1ADC-4DF7-8411-99DC7C47F44D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6ED66C81-C426-4FDD-B64D-6329A8856667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D114D5-1ADC-4DF7-8411-99DC7C47F44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D114D5-1ADC-4DF7-8411-99DC7C47F44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D114D5-1ADC-4DF7-8411-99DC7C47F44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D114D5-1ADC-4DF7-8411-99DC7C47F44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

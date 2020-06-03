@@ -1,0 +1,6 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\obj\Debug\CircularQueue.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\obj\Debug\CircularQueue.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\bin\Debug\CircularQueue.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\bin\Debug\CircularQueue.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\obj\Debug\CircularQueue.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\02. Circular Queue\CircularQueue\obj\Debug\CircularQueue.pdb

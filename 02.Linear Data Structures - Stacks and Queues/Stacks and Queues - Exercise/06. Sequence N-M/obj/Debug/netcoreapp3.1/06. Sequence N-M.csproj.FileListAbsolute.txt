@@ -1,0 +1,13 @@
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.exe
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.deps.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.runtimeconfig.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.runtimeconfig.dev.json
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\bin\Debug\netcoreapp3.1\06. Sequence N-M.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.AssemblyInfoInputs.cache
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.AssemblyInfo.cs
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.dll
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.pdb
+C:\GitHubRepo\Data structure\02.Linear Data Structures - Stacks and Queues\Stacks and Queues - Exercise\06. Sequence N-M\obj\Debug\netcoreapp3.1\06. Sequence N-M.genruntimeconfig.cache
