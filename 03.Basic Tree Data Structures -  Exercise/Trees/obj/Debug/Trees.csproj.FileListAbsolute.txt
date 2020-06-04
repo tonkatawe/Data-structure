@@ -1,0 +1,7 @@
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\bin\Debug\Trees.exe.config
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\bin\Debug\Trees.exe
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\bin\Debug\Trees.pdb
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\obj\Debug\Trees.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\obj\Debug\Trees.exe
+C:\GitHubRepo\Data structure\03.Basic Tree Data Structures\Trees\obj\Debug\Trees.pdb
