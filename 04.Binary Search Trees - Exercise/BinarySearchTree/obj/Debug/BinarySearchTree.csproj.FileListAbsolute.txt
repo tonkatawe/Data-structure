@@ -1,0 +1,7 @@
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\GitHubRepo\Data structure\04.Binary Search Trees - Exercise\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
