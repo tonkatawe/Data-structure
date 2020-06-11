@@ -1,0 +1,6 @@
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.pdb
