@@ -1,0 +1,7 @@
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\bin\Debug\AStar.exe.config
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\bin\Debug\AStar.exe
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\bin\Debug\AStar.pdb
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\obj\Debug\AStar.exe
+C:\GitHubRepo\Data structure\05.Heaps and Priority Queues - Exercise\AStar\obj\Debug\AStar.pdb
