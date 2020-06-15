@@ -62,6 +62,35 @@ public class BinaryHeap<T>
 
     public T Pull()
     {
-        throw new NotImplementedException();
+        if (this.heap.Count <=0)
+        {
+            throw new InvalidOperationException();
+        }
+
+        T result = this.heap[0];
+        Swap(0, this.Count - 1);
+        this.heap.RemoveAt(this.Count - 1);
+        this.HeapifyDown(0);
+        return result;
+    }
+
+    private void HeapifyDown(int index)
+    {
+        while (index < this.Count/2)
+        {
+            var child = 2 * index + 1;
+            if (child +1 < this.Count && IsGreater(child+1, child))
+            {
+                child++;
+            }
+
+            if (IsGreater(index, child))
+            {
+                break;
+            }
+
+            Swap(child, index);
+            index = child;
+        }
     }
 }
