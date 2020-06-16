@@ -1,0 +1,10 @@
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe.config
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CopyComplete
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+C:\GitHubRepo\Data structure\06. Data-Structures-B-Trees-and-Red-Black-Trees - Exercise\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb

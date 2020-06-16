@@ -2,9 +2,9 @@
 {
     using System;
 
-    class Program
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
             var hierarchy = new Hierarchy<string>("Leonidas");
             hierarchy.Add("Leonidas", "Xena The Princess Warrior");
