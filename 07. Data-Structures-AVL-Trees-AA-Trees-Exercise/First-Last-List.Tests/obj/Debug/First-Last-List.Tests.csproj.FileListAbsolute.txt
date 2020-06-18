@@ -1,0 +1,15 @@
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\nunit.framework.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\PowerCollections.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\First-Last-List.exe.config
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\nunit.framework.xml
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\bin\Debug\PowerCollections.xml
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csproj.CopyComplete
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb

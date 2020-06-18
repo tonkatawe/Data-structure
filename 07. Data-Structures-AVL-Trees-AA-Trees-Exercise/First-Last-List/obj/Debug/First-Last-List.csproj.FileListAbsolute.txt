@@ -1,0 +1,14 @@
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\First-Last-List.exe.config
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\First-Last-List.exe
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\First-Last-List.pdb
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\GeoAPI.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\NetTopologySuite.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\PowerCollections.dll
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\GeoAPI.xml
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\NetTopologySuite.xml
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\bin\Debug\PowerCollections.xml
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\obj\Debug\First-Last-List.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\obj\Debug\First-Last-List.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\obj\Debug\First-Last-List.csproj.CopyComplete
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\obj\Debug\First-Last-List.exe
+C:\GitHubRepo\Data structure\07. Data-Structures-AVL-Trees-AA-Trees-Exercise\First-Last-List\obj\Debug\First-Last-List.pdb
