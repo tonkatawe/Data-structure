@@ -1,0 +1,11 @@
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Trie.Tests.dll
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Trie.Tests.pdb
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Trie.exe
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Trie.pdb
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\bin\Debug\Trie.exe.config
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\obj\Debug\Trie.Tests.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\obj\Debug\Trie.Tests.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\obj\Debug\Trie.Tests.csproj.CopyComplete
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\obj\Debug\Trie.Tests.dll
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie.Tests\obj\Debug\Trie.Tests.pdb

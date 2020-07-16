@@ -1,0 +1,10 @@
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\bin\Debug\Trie.exe.config
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\bin\Debug\Trie.exe
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\bin\Debug\Trie.pdb
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\obj\Debug\Trie.csprojAssemblyReference.cache
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\obj\Debug\Trie.csproj.CopyComplete
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\obj\Debug\Trie.exe
+C:\GitHubRepo\Data structure\08. ROPE AND TRIE\Trie\obj\Debug\Trie.pdb
