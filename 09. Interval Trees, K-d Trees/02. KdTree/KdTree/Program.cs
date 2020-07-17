@@ -10,5 +10,6 @@ public class Program
         tree.Insert(new Point2D(2, 6));
         tree.Insert(new Point2D(8, 8));
         tree.Insert(new Point2D(8, 9));
+        Console.WriteLine();
     }
 }
